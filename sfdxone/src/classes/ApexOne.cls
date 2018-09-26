@@ -5,4 +5,7 @@ public with sharing class ApexOne {
     public void methodTwo(){
     	system.debug('ApexOne methodTwo');
     }
+    public void methodThree(){
+    	system.debug('ApexOne methodThree');
+    }
 }
